@@ -7,7 +7,7 @@
         <member name="T:KeePassLib.Utility.UrlUtil">
             <summary>
             A class containing various static path utility helper methods (like
-            stripping extension from a file, etc.).
+            stripping extension from a file, etc).
             </summary>
         </member>
         <member name="M:KeePassLib.Utility.UrlUtil.GetFileDirectory(System.String,System.Boolean,System.Boolean)">
